@@ -1,0 +1,5 @@
+"ID","Key","Value"
+"id-1ac6b486dc5d4a84b2e887fb460a9580","artifact_type","war"
+"id-d7063ba6b8a94ea28c53154c1986e704","artifact_type","container-image"
+"id-5dd3704fcd0a45a699a44182fe2010be","artifact_type","static-build"
+"id-5dd3704fcd0a45a699a44182fe2010be","repo","ghcr.io/smkn4/portal-web"
